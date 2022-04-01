@@ -1,4 +1,3 @@
 hello this is a test 
-a.txt
 
-exit
+hello
